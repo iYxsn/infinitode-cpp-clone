@@ -1,0 +1,25 @@
+# Build outputs
+*.o
+*.obj
+*.exe
+infinitode_full
+infinitode_step*
+
+# Build folders
+build/
+out/
+cmake-build-*/
+
+# Assignment / local material
+support/
+
+# Archives
+*.rar
+*.zip
+*.7z
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
